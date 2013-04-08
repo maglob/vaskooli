@@ -1,4 +1,4 @@
-vaskooli
+Vaskooli
 ========
 
 Lean mean reader
